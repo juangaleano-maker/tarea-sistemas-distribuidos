@@ -1,1 +1,3 @@
 Cedula: 5990621, Nombre: Juan, Apellido: Galeano
+Cedula: 5644324, Nombre: Gabriel, Apellido: Gonzalez
+
